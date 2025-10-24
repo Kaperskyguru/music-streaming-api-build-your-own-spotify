@@ -124,3 +124,5 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+.git-*backup*
