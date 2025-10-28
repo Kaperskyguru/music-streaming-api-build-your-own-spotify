@@ -4,9 +4,6 @@ const app = express();
 
 app.get("/", (req, res) => res.send("Hello From Your API"));
 
-
-This is a new code that needs to work or I deal with it a way that's unimaginative and I will fuck it up badly due to my power and what my fears are really. What do I need t
-
 /**
 * Editing this line below will cause your code to break and not build successfully. Except you know what you're doing.
 */
